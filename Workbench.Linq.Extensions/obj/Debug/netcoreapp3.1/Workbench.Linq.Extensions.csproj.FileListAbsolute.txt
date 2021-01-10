@@ -1,0 +1,12 @@
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.deps.json
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.pdb
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csprojAssemblyReference.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfoInputs.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfo.cs
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CopyComplete
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb

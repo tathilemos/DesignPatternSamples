@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WIhvBrfpY3AFK5SOG59P+DjPiRmjYDFRseTH9NJwNxAiTFfar64Zs9fyj7EUHedfvHQsjNZc4s82RHXn0ypMCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tatit\\Downloads\\DPattern\\DesignPatternSamples-main\\src\\Workbench.IFormatter.Extensions\\Workbench.IFormatter.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tatit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tatit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

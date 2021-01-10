@@ -1,0 +1,9 @@
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Comparer\bin\Debug\netcoreapp3.1\Workbench.Comparer.deps.json
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Comparer\bin\Debug\netcoreapp3.1\Workbench.Comparer.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Comparer\bin\Debug\netcoreapp3.1\Workbench.Comparer.pdb
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.csprojAssemblyReference.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.AssemblyInfoInputs.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.AssemblyInfo.cs
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.csproj.CoreCompileInputs.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.pdb

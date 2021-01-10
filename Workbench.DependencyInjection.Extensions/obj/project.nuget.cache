@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MD4gWS+MY92AMZbbrUp9ioctu1jgeaY/BDPF22CQ8yt87iN23fGMgYbSfwVR+mnip9EjB9CyJr67DHr4Nuhc7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tatit\\Downloads\\DPattern\\DesignPatternSamples-main\\src\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tatit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

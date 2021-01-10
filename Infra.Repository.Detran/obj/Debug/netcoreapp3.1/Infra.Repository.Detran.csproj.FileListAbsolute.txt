@@ -1,0 +1,16 @@
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.deps.json
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.pdb
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.pdb
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.pdb
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.pdb
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csprojAssemblyReference.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.AssemblyInfoInputs.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.AssemblyInfo.cs
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csproj.CoreCompileInputs.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csproj.CopyComplete
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.pdb

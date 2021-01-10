@@ -1,0 +1,12 @@
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.deps.json
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.pdb
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.pdb
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.csprojAssemblyReference.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.AssemblyInfoInputs.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.AssemblyInfo.cs
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.csproj.CopyComplete
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.dll
+C:\Users\tatit\Downloads\05f9b949-4179-4364-9e74-e4b12791c4fa\DesignPatternSamples-main\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.pdb
